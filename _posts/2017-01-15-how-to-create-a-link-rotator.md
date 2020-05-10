@@ -5,8 +5,6 @@ description: Have non-technical people update Jekyll sites
 categories:
   - Link Rotators
 type: Text
-set: getting-started
-set_order: 1
 ---
 
 ## How to Create a Link Rotator
