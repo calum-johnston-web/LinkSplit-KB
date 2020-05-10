@@ -1,14 +1,13 @@
 ---
 date: 2020-05-10
-title: How to Create a Link Rotator
-description: Have non-technical people update Jekyll sites
+title: Create a Link Rotator
+description: How to create a link rotator
 categories:
   - link-rotators
 type: Document
 ---
 
 To the right of your Dashboard there is a blue button that reads “Create New”. Click here and then opt for the "Link Rotator’ option in the drop down menu. 
-
 
 ### 1) Enter your destination URLs
 
