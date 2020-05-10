@@ -3,7 +3,7 @@ date: 2020-05-10
 title: How to Create a Link Rotator
 description: Have non-technical people update Jekyll sites
 categories:
-  - Link Rotators
+  - link-rotator
 type: Document
 ---
 
