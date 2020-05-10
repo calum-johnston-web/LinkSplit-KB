@@ -3,7 +3,7 @@ date: 2020-05-10
 title: Customize your Link Rotators
 description: How to get the most out of your rotators
 categories:
-  - link-rotator
+  - link-rotators
 type: Document
 ---
 
