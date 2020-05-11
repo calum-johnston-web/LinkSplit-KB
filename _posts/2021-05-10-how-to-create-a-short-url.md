@@ -3,7 +3,7 @@ date: 2020-05-11
 title: Create a Short URL
 description: How to create a short URL
 categories:
-  - short-url
+  - short-urls
 type: Document
 ---
 

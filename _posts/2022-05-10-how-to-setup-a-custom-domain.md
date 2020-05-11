@@ -3,7 +3,7 @@ date: 2020-05-11
 title: Setup a Custom Domain
 description: How to setup a custom domain
 categories:
-  -custom-domain
+  -custom-domains
 type: Document
 ---
 
