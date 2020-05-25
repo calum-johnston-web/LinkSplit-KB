@@ -1,6 +1,6 @@
 ---
 date: 2020-05-25
-title: Edit a Destination URL Link-Rotator
+title: Edit a Destination URL
 description: How to edit a destination URL for a Link Rotator
 categories:
   - link-rotators
